@@ -1,7 +1,7 @@
 BattleEffectSelf	0
 BattleEffectParty	1
 BattleEffectOther	1
-BattleEffectPvPEnemyPc	0
+BattleEffectPvPEnemyPc	2
 
 <GamePad Settings>
 PadMode	0
@@ -54,7 +54,7 @@ EnableMoveTiltCharacter	1
 EnableMoveTiltMountGround	1
 EnableMoveTiltMountFly	1
 TurnSpeed	50
-FootEffect	0
+FootEffect	1
 LegacySeal	1
 GBarrelDisp	1
 EgiMirageTypeGaruda	1
@@ -202,7 +202,7 @@ NamePlateHpTypePartyBuddy	2
 NamePlateColorAlliance	4282964140
 NamePlateEdgeAlliance	4279781177
 NamePlateDispTypeAlliance	1
-NamePlateNameTypeAlliance	0
+NamePlateNameTypeAlliance	3
 NamePlateHpTypeAlliance	2
 NamePlateDispTypeAlliancePet	2
 NamePlateHpTypeAlliancePet	2
